@@ -1,1 +1,1 @@
-{"day": "monday", "shows": [{"name": "test showwwwww", "desc": "asdfasdfasdf", "poster": "asdfasdfasdf", "start_time": 43200, "end_time": 46800, "is_running": 1}, {"name": "test show 5", "desc": "asdfasd", "poster": "asdfasdf", "start_time": 46800, "end_time": 50400, "is_running": 1}]}
+{"day": "monday", "shows": [{"name": "test showwwwww", "desc": "asdfasdfasdf", "poster": "asdfasdfasdf", "start_time": 43200, "end_time": 46800, "is_running": 1}]}
