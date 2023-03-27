@@ -1,1 +1,1 @@
-{"day": "monday", "shows": []}
+{"day": "monday", "shows": [{"name": "test show 4", "desc": "asdfasdfasdf", "poster": "asdfasdfasdf", "start_time": 43200, "end_time": 46800, "is_running": 1}]}
