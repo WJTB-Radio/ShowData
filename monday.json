@@ -1,1 +1,1 @@
-{"day": "monday", "shows": []}
+{"day": "monday", "shows": [{"name": "Hour of Anarchy", "desc": "I play punk and metal and I'll talk about it too.", "hosts": "Apollo", "poster": "https://raw.githubusercontent.com/WJTB-Radio/ShowData/master/images/8c386ea7394dce7b9fd9427d2fc90414.jpg", "start_time": 54000, "end_time": 57600, "is_running": 1}]}
