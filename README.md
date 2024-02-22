@@ -1,7 +1,5 @@
 # WJTB Show Data
 
-I promise we aren't hotlinking you github please stop reading here thanks.
-
 # API
 
 ## playing.json
