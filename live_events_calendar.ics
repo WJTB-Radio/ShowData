@@ -3,10 +3,10 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Setup Time: 01:00 PM / 13:00\nStart Time: 02:00 PM / 14:00\nEnd Time: 04:00 PM / 16:00\nOrganizer: julia jat77\n\n\n\n\nhello\nClub: wjtb\n\n\n\nhello\nIndoors\nDress Code: Formal\nSize/Audience: 5 people\n\n\n\n\n\n\n\nhello\nAdditional Equipment: 11 mic stands please\n\n\n\n\n:3\nPlaylist/Mood: something whimsical\nPeople who can make announcements: julia\n\njulia\n\njulia\njulia\nHighlander Hub: N/A\n\n\nhello\nCohost Agreement: I agree\n
-DTEND:20240910T160000Z
+DTEND:20240910T200000Z
 LOCATION:at my house
-DTSTART:20240910T140000Z
+DTSTART:20240910T170000Z
 SUMMARY:test event (new form)
-UID:9cc22e3f-fec2-42b8-af4c-00a893334561@9cc2.org
+UID:3bb43568-8686-4a43-bcb7-a7b76321394d@3bb4.org
 END:VEVENT
 END:VCALENDAR
