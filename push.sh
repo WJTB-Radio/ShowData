@@ -1,7 +1,8 @@
 #!/bin/bash
 
-cd /var/services/homes/admin/show_data
+cd "$(dirname "$0")"
 
+git pull
 git add .
 git commit -m "a very legitimate commit"
 git push
