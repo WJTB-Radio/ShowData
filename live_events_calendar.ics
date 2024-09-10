@@ -7,7 +7,7 @@ DTEND:20240910T200000Z
 LOCATION:at my house
 DTSTART:20240910T170000Z
 SUMMARY:test event (new form)
-UID:b8ea6f49-7789-4947-88dc-2f252296fc87@b8ea.org
+UID:3a6f97ea-53d5-4a5b-9200-c7bdf05ff32d@3a6f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Setup Time: 04:00 PM / 16:00\nStart Time: 05:00 PM / 17:00\nEnd Time: 08:00 PM / 20:00\nOrganizer: Maya Salyani - mms29\nClub: SAC\nIndoors\nDress Code: Casual\nSize/Audience: 100 - Students\nAdditional Equipment: Speakers for sound (movie)\nPlaylist/Mood: N/A\nPeople who can make announcements: SAC Eboard\nHighlander Hub: https://njit.campuslabs.com/engage/event/10396630\nCohost Agreement: I agree\n
@@ -15,6 +15,6 @@ DTEND:20240914T000000Z
 LOCATION:CC Atrium
 DTSTART:20240913T200000Z
 SUMMARY:SAC Movie Night
-UID:a7691a37-8636-47d1-8c93-3b743a05fdaf@a769.org
+UID:8abac1dc-4e99-4f4d-a5c3-961c85878e68@8aba.org
 END:VEVENT
 END:VCALENDAR
