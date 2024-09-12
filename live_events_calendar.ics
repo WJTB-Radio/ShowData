@@ -7,7 +7,7 @@ DTEND:20240927T200000Z
 LOCATION:Upper greens
 DTSTART:20240927T174500Z
 SUMMARY:Carnaval!
-UID:b4282f5c-dbf2-4081-b772-69b4d1f064c4@b428.org
+UID:fc1dc8f6-bb91-4200-9454-15a8077d9baf@fc1d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Setup Time: 01:00 PM / 13:00\nStart Time: 02:00 PM / 14:00\nEnd Time: 04:00 PM / 16:00\nOrganizer: julia jat77\n\n\n\n\nhello\nClub: wjtb\n\n\n\nhello\nIndoors\nDress Code: Formal\nSize/Audience: 5 people\n\n\n\n\n\n\n\nhello\nAdditional Equipment: 11 mic stands please\n\n\n\n\n:3\nPlaylist/Mood: something whimsical\nPeople who can make announcements: julia\n\njulia\n\njulia\njulia\nHighlander Hub: N/A\n\n\nhello\nCohost Agreement: I agree\n
@@ -15,7 +15,7 @@ DTEND:20240910T200000Z
 LOCATION:at my house
 DTSTART:20240910T170000Z
 SUMMARY:test event (new form)
-UID:10c33135-c337-4049-b75e-48372b090ef4@10c3.org
+UID:b33290e4-9226-458a-be9c-d29ce4761448@b332.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Setup Time: 04:00 PM / 16:00\nStart Time: 05:00 PM / 17:00\nEnd Time: 08:00 PM / 20:00\nOrganizer: Maya Salyani - mms29\nClub: SAC\nIndoors\nDress Code: Casual\nSize/Audience: 100 - Students\nAdditional Equipment: Speakers for sound (movie)\nPlaylist/Mood: N/A\nPeople who can make announcements: SAC Eboard\nHighlander Hub: https://njit.campuslabs.com/engage/event/10396630\nCohost Agreement: I agree\n
@@ -23,6 +23,6 @@ DTEND:20240914T000000Z
 LOCATION:CC Atrium
 DTSTART:20240913T200000Z
 SUMMARY:SAC Movie Night
-UID:5690b9b3-27e2-4cb0-8fd9-fae221e9e8c0@5690.org
+UID:9940c055-1544-4eb7-85be-283aa40f76e0@9940.org
 END:VEVENT
 END:VCALENDAR
