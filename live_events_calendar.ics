@@ -7,15 +7,7 @@ DTEND:20240910T200000Z
 LOCATION:at my house
 DTSTART:20240910T170000Z
 SUMMARY:test event (new form)
-UID:839409a2-6afb-4c2a-bfb7-33115e5b1020@8394.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Setup Time: 01:45 PM / 13:45\nStart Time: 02:30 PM / 14:30\nEnd Time: 04:00 PM / 16:00\nOrganizer: Victoria Almeyda\, va37 (SHLA President) and Maria Isabella Ruiz\, mir26 (SHLA Vice President)\nClub: Society of Hispanic and Latine Appreciation\nOutdoors\nDress Code: Casual\nSize/Audience: Students and faculty\nAdditional Equipment: Anything you usually need to set up outside in the upper greens.\nPlaylist/Mood: https://open.spotify.com/playlist/37cl4tYeOCi07LVmKFWw5o?si=WlcFXyrPTsuGIQrA14gApg\nPeople who can make announcements: n/a\nHighlander Hub: https://njit.campuslabs.com/engage/organization/shla\nCohost Agreement: I agree\n
-DTEND:20240927T200000Z
-LOCATION:Upper greens
-DTSTART:20240927T174500Z
-SUMMARY:Carnaval!
-UID:5d0a6c69-e175-4583-8b57-2e7c1c7a0dcf@5d0a.org
+UID:cd1ff575-dd0c-4b94-96fb-449c4fad5414@cd1f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Setup Time: 04:00 PM / 16:00\nStart Time: 05:00 PM / 17:00\nEnd Time: 08:00 PM / 20:00\nOrganizer: Maya Salyani - mms29\nClub: SAC\nIndoors\nDress Code: Casual\nSize/Audience: 100 - Students\nAdditional Equipment: Speakers for sound (movie)\nPlaylist/Mood: N/A\nPeople who can make announcements: SAC Eboard\nHighlander Hub: https://njit.campuslabs.com/engage/event/10396630\nCohost Agreement: I agree\n
@@ -23,6 +15,14 @@ DTEND:20240914T000000Z
 LOCATION:CC Atrium
 DTSTART:20240913T200000Z
 SUMMARY:SAC Movie Night
-UID:3614cb6f-7600-4e2c-91a0-8876ac66905b@3614.org
+UID:50374a2f-59d1-4db5-9e39-e0e32517b377@5037.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Setup Time: 01:45 PM / 13:45\nStart Time: 02:30 PM / 14:30\nEnd Time: 04:00 PM / 16:00\nOrganizer: Victoria Almeyda\, va37 (SHLA President) and Maria Isabella Ruiz\, mir26 (SHLA Vice President)\nClub: Society of Hispanic and Latine Appreciation\nOutdoors\nDress Code: Casual\nSize/Audience: Students and faculty\nAdditional Equipment: Anything you usually need to set up outside in the upper greens.\nPlaylist/Mood: https://open.spotify.com/playlist/37cl4tYeOCi07LVmKFWw5o?si=WlcFXyrPTsuGIQrA14gApg\nPeople who can make announcements: n/a\nHighlander Hub: https://njit.campuslabs.com/engage/organization/shla\nCohost Agreement: I agree\n
+DTEND:20240927T200000Z
+LOCATION:Upper greens
+DTSTART:20240927T174500Z
+SUMMARY:Carnaval!
+UID:42d07cb1-241d-4644-9efb-e4d54b15a73e@42d0.org
 END:VEVENT
 END:VCALENDAR
