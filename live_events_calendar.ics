@@ -7,15 +7,7 @@ DTEND:20240927T200000Z
 LOCATION:Upper greens
 DTSTART:20240927T174500Z
 SUMMARY:Carnaval!
-UID:2d91285f-0509-4f55-aadf-083e5e503b18@2d91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Setup Time: 04:00 PM / 16:00\nStart Time: 05:00 PM / 17:00\nEnd Time: 08:00 PM / 20:00\nOrganizer: Maya Salyani - mms29\nClub: SAC\nIndoors\nDress Code: Casual\nSize/Audience: 100 - Students\nAdditional Equipment: Speakers for sound (movie)\nPlaylist/Mood: N/A\nPeople who can make announcements: SAC Eboard\nHighlander Hub: https://njit.campuslabs.com/engage/event/10396630\nCohost Agreement: I agree\n
-DTEND:20240914T000000Z
-LOCATION:CC Atrium
-DTSTART:20240913T200000Z
-SUMMARY:SAC Movie Night
-UID:0d875af6-1d90-46d3-82e5-76e5d190349c@0d87.org
+UID:bd07b251-91f5-4107-8871-afed81da3c8c@bd07.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Setup Time: 01:00 PM / 13:00\nStart Time: 02:00 PM / 14:00\nEnd Time: 04:00 PM / 16:00\nOrganizer: julia jat77\n\n\n\n\nhello\nClub: wjtb\n\n\n\nhello\nIndoors\nDress Code: Formal\nSize/Audience: 5 people\n\n\n\n\n\n\n\nhello\nAdditional Equipment: 11 mic stands please\n\n\n\n\n:3\nPlaylist/Mood: something whimsical\nPeople who can make announcements: julia\n\njulia\n\njulia\njulia\nHighlander Hub: N/A\n\n\nhello\nCohost Agreement: I agree\n
@@ -23,6 +15,14 @@ DTEND:20240910T200000Z
 LOCATION:at my house
 DTSTART:20240910T170000Z
 SUMMARY:test event (new form)
-UID:cd1388a1-daa6-40ca-af49-1aa029e99de8@cd13.org
+UID:b23989db-3748-4853-b25f-726eb957fe25@b239.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Setup Time: 04:00 PM / 16:00\nStart Time: 05:00 PM / 17:00\nEnd Time: 08:00 PM / 20:00\nOrganizer: Maya Salyani - mms29\nClub: SAC\nIndoors\nDress Code: Casual\nSize/Audience: 100 - Students\nAdditional Equipment: Speakers for sound (movie)\nPlaylist/Mood: N/A\nPeople who can make announcements: SAC Eboard\nHighlander Hub: https://njit.campuslabs.com/engage/event/10396630\nCohost Agreement: I agree\n
+DTEND:20240914T000000Z
+LOCATION:CC Atrium
+DTSTART:20240913T200000Z
+SUMMARY:SAC Movie Night
+UID:821565d6-9b13-45bc-a461-4b4b2bec196b@8215.org
 END:VEVENT
 END:VCALENDAR
