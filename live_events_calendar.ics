@@ -2,12 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Setup Time: 01:00 PM / 13:00\nStart Time: 02:00 PM / 14:00\nEnd Time: 04:00 PM / 16:00\nOrganizer: julia jat77\n\n\n\n\nhello\nClub: wjtb\n\n\n\nhello\nIndoors\nDress Code: Formal\nSize/Audience: 5 people\n\n\n\n\n\n\n\nhello\nAdditional Equipment: 11 mic stands please\n\n\n\n\n:3\nPlaylist/Mood: something whimsical\nPeople who can make announcements: julia\n\njulia\n\njulia\njulia\nHighlander Hub: N/A\n\n\nhello\nCohost Agreement: I agree\n
+DTEND:20240910T200000Z
+LOCATION:at my house
+DTSTART:20240910T170000Z
+SUMMARY:test event (new form)
+UID:4d889db3-aa1c-4d9f-93c5-7a79505aaf03@4d88.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Setup Time: 04:00 PM / 16:00\nStart Time: 05:00 PM / 17:00\nEnd Time: 08:00 PM / 20:00\nOrganizer: Maya Salyani - mms29\nClub: SAC\nIndoors\nDress Code: Casual\nSize/Audience: 100 - Students\nAdditional Equipment: Speakers for sound (movie)\nPlaylist/Mood: N/A\nPeople who can make announcements: SAC Eboard\nHighlander Hub: https://njit.campuslabs.com/engage/event/10396630\nCohost Agreement: I agree\n
 DTEND:20240914T000000Z
 LOCATION:CC Atrium
 DTSTART:20240913T200000Z
 SUMMARY:SAC Movie Night
-UID:335af58b-d2e8-44d8-b2c9-c86c015727b1@335a.org
+UID:16cf4654-11ec-4ac8-bc7b-6be2113ac521@16cf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Setup Time: 01:45 PM / 13:45\nStart Time: 02:30 PM / 14:30\nEnd Time: 04:00 PM / 16:00\nOrganizer: Victoria Almeyda\, va37 (SHLA President) and Maria Isabella Ruiz\, mir26 (SHLA Vice President)\nClub: Society of Hispanic and Latine Appreciation\nOutdoors\nDress Code: Casual\nSize/Audience: Students and faculty\nAdditional Equipment: Anything you usually need to set up outside in the upper greens.\nPlaylist/Mood: https://open.spotify.com/playlist/37cl4tYeOCi07LVmKFWw5o?si=WlcFXyrPTsuGIQrA14gApg\nPeople who can make announcements: n/a\nHighlander Hub: https://njit.campuslabs.com/engage/organization/shla\nCohost Agreement: I agree\n
@@ -15,14 +23,6 @@ DTEND:20240927T200000Z
 LOCATION:Upper greens
 DTSTART:20240927T174500Z
 SUMMARY:Carnaval!
-UID:3f1ce03b-c110-4f4a-9990-799e9be521c6@3f1c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Setup Time: 01:00 PM / 13:00\nStart Time: 02:00 PM / 14:00\nEnd Time: 04:00 PM / 16:00\nOrganizer: julia jat77\n\n\n\n\nhello\nClub: wjtb\n\n\n\nhello\nIndoors\nDress Code: Formal\nSize/Audience: 5 people\n\n\n\n\n\n\n\nhello\nAdditional Equipment: 11 mic stands please\n\n\n\n\n:3\nPlaylist/Mood: something whimsical\nPeople who can make announcements: julia\n\njulia\n\njulia\njulia\nHighlander Hub: N/A\n\n\nhello\nCohost Agreement: I agree\n
-DTEND:20240910T200000Z
-LOCATION:at my house
-DTSTART:20240910T170000Z
-SUMMARY:test event (new form)
-UID:28006d27-0074-436f-9363-3986c83796aa@2800.org
+UID:a433fe13-77d3-4873-9ee8-6378961a9267@a433.org
 END:VEVENT
 END:VCALENDAR
