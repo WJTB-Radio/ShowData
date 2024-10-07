@@ -1,1 +1,1 @@
-{"day": "monday", "shows": []}
+{"day": "monday", "shows": [{"name": "Metal Mayhem", "desc": "During the one hour that is known as \"The Power Hour,\" I DJ XYZ will play the loudest, the fastest, and the heaviest music from across all genres of metal music.", "hosts": "DJ XYZ", "poster": "https://raw.githubusercontent.com/WJTB-Radio/ShowData/master/images/8c386ea7394dce7b9fd9427d2fc90414.jpg", "start_time": 41400, "end_time": 45000, "is_running": 1}]}
