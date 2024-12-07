@@ -2,92 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Setup Time: 01:00 PM / 13:00\nStart Time: 02:00 PM / 14:00\nEnd Time: 04:00 PM / 16:00\nOrganizer: julia jat77\n\n\n\n\nhello\nClub: wjtb\n\n\n\nhello\nIndoors\nDress Code: Formal\nSize/Audience: 5 people\n\n\n\n\n\n\n\nhello\nAdditional Equipment: 11 mic stands please\n\n\n\n\n:3\nPlaylist/Mood: something whimsical\nPeople who can make announcements: julia\n\njulia\n\njulia\njulia\nHighlander Hub: N/A\n\n\nhello\nCohost Agreement: I agree\n
-DTEND:20240910T200000Z
-LOCATION:at my house
-DTSTART:20240910T170000Z
-SUMMARY:test event (new form)
-UID:6942b189-afc8-4cda-be8a-8875a47a26e0@6942.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Setup Time: 04:00 PM / 16:00\nStart Time: 05:00 PM / 17:00\nEnd Time: 07:00 PM / 19:00\nOrganizer: Jasmin Rutter jnr7\nClub: Society of Musical Arts\nIndoors\nDress Code: Casual\nSize/Audience: 50 and anyone can come\nAdditional Equipment: mixer\, 3 microphones\, mic stands\, 2 pa speakers\, aux to quarter inch\nPlaylist/Mood: chill\nPeople who can make announcements: Jasmin Rutter\nErik Lewis\nLouis Scafidi\nAkshay Nambiar\nRyan Bautista\nHighlander Hub: https://njit.campuslabs.com/engage/event/10342751\nCohost Agreement: I agree\n
-DTEND:20241014T230000Z
-LOCATION:CKB Agile Strat Lab
-DTSTART:20241014T200000Z
-SUMMARY:Homecoming Open Mic
-UID:def4922f-7993-4bf1-9ba9-f164d93476e8@def4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Setup Time: 02:30 PM / 14:30\nStart Time: 05:00 PM / 17:00\nEnd Time: 07:00 PM / 19:00\nOrganizer: Janelle Castellano jc394\nClub: The Music Initiative as part of the Theatre Arts and Technology Program\nIndoors\nDress Code: Semi-Formal\nSize/Audience: 80\nAdditional Equipment: a microphone and area mics with a console that can be fed thru an XLR cable to a camera\, as suggested by Dylan Franz\nPlaylist/Mood: Jazz music!\nPeople who can make announcements: David Rimelis\, Courtney Laine Self\, Rodney Reyes\nHighlander Hub: none\nCohost Agreement: I agree\n
-DTEND:20241214T000000Z
-LOCATION:Campus Center Atrium
-DTSTART:20241213T193000Z
-SUMMARY:Jazz Ensemble Concert
-UID:755e33a0-e26a-4d18-b752-fb73652f49c7@755e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Setup Time: 12:10 PM / 12:10\nStart Time: 12:30 PM / 12:30\nEnd Time: 02:30 PM / 14:30\nOrganizer: waff - Danny Waffenfeld\nClub: Office for Student Involvement and Leadership and VSO\nIndoors\nDress Code: Casual\nSize/Audience: 150+\nAdditional Equipment: \nPlaylist/Mood: Soft and low key music. We will have speeches from 12:40-1:10 p.m. so from 1:15-2:30 p.m. we are hoping for music to entertain our guests and attendees. We might have military veterans so anything you play will be good as usual\nPeople who can make announcements: Carlos Cabanilla\, Sebastian Arango and Danny Waffenfeld\nHighlander Hub: https://njit.campuslabs.com/engage/event/10206940\nCohost Agreement: I agree\n
-DTEND:20241111T193000Z
-LOCATION:Campus Center Ballrooms
-DTSTART:20241111T171000Z
-SUMMARY:Veterans Day Ceremony
-UID:f51af1b2-86da-4692-89ed-6d5317b27044@f51a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Setup Time: 10:30 AM / 10:30\nStart Time: 11:30 AM / 11:30\nEnd Time: 02:00 PM / 14:00\nOrganizer: Angel Cazares - ajc253\nClub: (HACCS) Hispanic Association of Computing College Students\nIndoors\nDress Code: Semi-Formal\nSize/Audience: 150 expected - Students\nAdditional Equipment: Tarps\, (3 extra mics\, its okay if not)\nPlaylist/Mood: will provide soon\nPeople who can make announcements: Angel Cazares\n(panelist names to be available soon)\nHighlander Hub: https://njit.campuslabs.com/engage/organization/haccs\nCohost Agreement: I agree\n
-DTEND:20241015T180000Z
-LOCATION:Campus Center Atrium
-DTSTART:20241015T143000Z
-SUMMARY:Tecno Nuevo
-UID:3bb0b183-81a5-4a0e-81b1-9c68116e6bbe@3bb0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Setup Time: 10:30 AM / 10:30\nStart Time: 11:30 AM / 11:30\nEnd Time: 01:00 PM / 13:00\nOrganizer: Victoria Almeyda (va37-President) and Isabella Ruiz (mir26-Vice President)\nClub: Society of Hispanic and Latine Appreciation\nIndoors\nDress Code: Casual\nSize/Audience: Student and faculty\nAdditional Equipment: We will need a mic to announce Lotería cards.\nPlaylist/Mood: Hispanic/Latine. https://open.spotify.com/playlist/08QuTN2JpTfaXroWytu8pL?si=mrAFoy1gRmuhzmEmz8tSTA\nPeople who can make announcements: Only Victoria Almeyda\, Isabella Ruiz\, Natalia Pena\, Victor Gonzales\nHighlander Hub: https://njit.campuslabs.com/engage/organization/shla\nCohost Agreement: I agree\n
-DTEND:20241004T170000Z
-LOCATION:Campus Center Atrium
-DTSTART:20241004T143000Z
-SUMMARY:Lotería
-UID:17c2827b-d80b-40f5-8aeb-569cdbd2dc32@17c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Setup Time: 06:00 PM / 18:00\nStart Time: 07:00 PM / 19:00\nEnd Time: 10:00 PM / 22:00\nOrganizer: Hunter Russo - hjr22\nClub: Student Senate\nIndoors\nDress Code: Casual\nSize/Audience: roughly 200-400\nAdditional Equipment: 2 mics\, and speakers facing all directions\nPlaylist/Mood: mainly jazz\nPeople who can make announcements: Hunter Russo\nMarina Samuel\nEric Huang\nBrian Dong\nJoshua DeMarco\nJanice Akladyous\nHighlander Hub: https://njit.campuslabs.com/engage/organization/studentsenate\nCohost Agreement: I agree\n
-DTEND:20241017T020000Z
-LOCATION:Campus Center Ballroom
-DTSTART:20241016T220000Z
-SUMMARY:Casino Night
-UID:1ef63db2-6f1f-4666-a235-50652391b05a@1ef6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Setup Time: 04:00 PM / 16:00\nStart Time: 04:00 PM / 16:00\nEnd Time: 08:00 PM / 20:00\nOrganizer: Vieri Arriaga\, vga\nClub: NJIT Anime Club\nIndoors\nDress Code: Casual\nSize/Audience: 40\nAdditional Equipment: 2 mics\, 2-4 speakers\nPlaylist/Mood: https://open.spotify.com/playlist/0BV0bqaYNZH7g88e82qU3m?si=5612b41d430b43a8\nPeople who can make announcements: Vieri Arriaga\, Jessica Maffei\nHighlander Hub: not available yet\nCohost Agreement: I agree\n
-DTEND:20241127T010000Z
-LOCATION:Campus Center Atrium
-DTSTART:20241126T210000Z
-SUMMARY:Anime Club Dance Party
-UID:de8f7fa9-ddea-4e3f-b6e4-f8ffcbd0d82e@de8f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Setup Time: 04:00 PM / 16:00\nStart Time: 05:00 PM / 17:00\nEnd Time: 09:00 PM / 21:00\nOrganizer: Victoria Almeyda - President (va37@njiit.edu)\, Isabella Ruiz - Vice President (mir26@njit.edu)\nClub: Society of Hispanic and Latine Appreciation\nIndoors\nDress Code: Casual\nSize/Audience: 100 (Students and faculty)\nAdditional Equipment: mic stands\, and mics\nPlaylist/Mood: https://open.spotify.com/playlist/0PHjBpuAVWxDwyJFjZuvjf?si=00fbc67fb04b4f75\nPeople who can make announcements: Victoria Almeyda and Isabella Ruiz can make announcements. Also\, we will work along SOMA (they will perform during the event)\nHighlander Hub: https://njit.campuslabs.com/engage/organization/shla\nCohost Agreement: I agree\n
-DTEND:20241205T020000Z
-LOCATION:Highlander Pub
-DTSTART:20241204T210000Z
-SUMMARY:Cafesito y Chisme
-UID:0f7cf952-21c9-414d-866b-d10a1e1d357c@0f7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Setup Time: 05:00 PM / 17:00\nStart Time: 06:00 PM / 18:00\nEnd Time: 09:00 PM / 21:00\nOrganizer: Steve Limaymanta: sal63\nClub: Society of Hispanic Professional Engineers\nIndoors\nDress Code: Casual\nSize/Audience: 200\nAdditional Equipment: Mic Stand\, more than 2 Mics\, speakers facing all directions\nPlaylist/Mood: https://open.spotify.com/playlist/1jEoB2wymb0kRKwbAqXw1Q?si=r2CkoLHlT5KpCm_q9q6How&pi=u-yBsgzPR1Qkq5\nPeople who can make announcements: Rick Kanashiro\, Pablo Leyva\, Steve Limaymanta\, Marcela Cardenas\, Israel Alcantara\nHighlander Hub: N/A\nCohost Agreement: I agree\n
-DTEND:20240927T010000Z
-LOCATION:Campus Center Ballroom A
-DTSTART:20240926T210000Z
-SUMMARY:Latin Night
-UID:a3927122-fb5a-49d8-90a9-9e26c3044b00@a392.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Setup Time: 12:00 PM / 12:00\nStart Time: 02:30 PM / 14:30\nEnd Time: 04:00 PM / 16:00\nOrganizer: Janelle Castellano jc394\nClub: Theatre Arts and Technology Program\nIndoors\nDress Code: Semi-Formal\nSize/Audience: 80\nAdditional Equipment: a microphone and area mics with a console that can be fed thru an XLR cable to a camera\, as suggested by Dylan Franz\nPlaylist/Mood: Classical!\nPeople who can make announcements: Sandra Dackow\, Sarah Carino-Kozi\, Courtney Laine Self\, Rodney Reyes\nHighlander Hub: none\nCohost Agreement: I agree\n
-DTEND:20241211T210000Z
-LOCATION:Campus Center Atrium
-DTSTART:20241211T170000Z
-SUMMARY:Janelle Castellano
-UID:814c7ada-428e-462a-8960-f98ef05b6c27@814c.org
+DESCRIPTION:Setup Time: 10:50 AM / 10:50\nStart Time: 11:00 AM / 11:00\nEnd Time: 01:00 PM / 13:00\nOrganizer: waff / Danny Waffenfeld\nClub: Office for Student Involvement and Food Pantry\nIndoors\nDress Code: Casual\nSize/Audience: Maybe 20-50 people / is it for donations to the food pantry and spreading awareness\nAdditional Equipment: just one speaker\, nothing really else\nPlaylist/Mood: today's hits / anything you would like!\nPeople who can make announcements: Danny Waffenfeld\nHighlander Hub: https://njit.campuslabs.com/engage/event/10497721\nCohost Agreement: I agree\n
+DTEND:20240924T170000Z
+LOCATION:Campus Center Lobby
+DTSTART:20240924T145000Z
+SUMMARY:Food Drive
+UID:dea06560-611f-425b-bb98-f253d722021d@dea0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Setup Time: 06:50 PM / 18:50\nStart Time: 07:00 PM / 19:00\nEnd Time: 09:30 PM / 21:30\nOrganizer: Harini Kannan hk64\nClub: Delta Phi Epsilon\nIndoors\nDress Code: Casual\nSize/Audience: Around 50\, Students\nAdditional Equipment: \nPlaylist/Mood: The event is Greek Gods themed. Also the contestants will all have their own sound that needs to be played but that has not been finalized yet.\nPeople who can make announcements: Harini Kannan\, Isabella Chamma\, Gabrielle Uskach\, Kimberely Mohammed\, Isa Rios\, There is a contestant list as well who needs to use the mic but it is not finalized yet.\nHighlander Hub: https://njit.campuslabs.com/engage/actioncenter/organization/dphie/events/calendar/details/10372414\nCohost Agreement: I agree\n
@@ -95,47 +15,31 @@ DTEND:20241016T013000Z
 LOCATION:Campus Center Atrium
 DTSTART:20241015T225000Z
 SUMMARY:Iris Icon
-UID:80108df8-2128-4cac-a1de-f9642070a216@8010.org
+UID:b4a7faa8-a4ff-4cc4-b3b7-3fdd337651f2@b4a7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Setup Time: 04:00 PM / 16:00\nStart Time: 05:00 PM / 17:00\nEnd Time: 08:00 PM / 20:00\nOrganizer: Maya Salyani mms29\nClub: Student Activities Council\nIndoors\nDress Code: Casual\nSize/Audience: 250 undergrad students\nAdditional Equipment: 2 mics\nPlaylist/Mood: Jeopardy music\nPeople who can make announcements: SAC Eboard (we will be using the mic for the whole event)\nHighlander Hub: n/a\nCohost Agreement: I agree\n
-DTEND:20241106T010000Z
-LOCATION:Atrium
-DTSTART:20241105T210000Z
-SUMMARY:SAC Trivia Night
-UID:a23f0bf7-6369-41d9-98ac-b4d9195e32ba@a23f.org
+DESCRIPTION:Setup Time: 04:00 PM / 16:00\nStart Time: 04:00 PM / 16:00\nEnd Time: 08:00 PM / 20:00\nOrganizer: Vieri Arriaga\, vga\nClub: NJIT Anime Club\nIndoors\nDress Code: Casual\nSize/Audience: 40\nAdditional Equipment: 2 mics\, 2-4 speakers\nPlaylist/Mood: https://open.spotify.com/playlist/0BV0bqaYNZH7g88e82qU3m?si=5612b41d430b43a8\nPeople who can make announcements: Vieri Arriaga\, Jessica Maffei\nHighlander Hub: not available yet\nCohost Agreement: I agree\n
+DTEND:20241127T010000Z
+LOCATION:Campus Center Atrium
+DTSTART:20241126T210000Z
+SUMMARY:Anime Club Dance Party
+UID:293721e6-418f-4a0f-8aee-65a2d55f8384@2937.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Setup Time: 05:30 PM / 17:30\nStart Time: 06:00 PM / 18:00\nEnd Time: 09:00 PM / 21:00\nOrganizer: Ebru Dagdelen\, end\nClub: Turkish Student Association\nIndoors\nDress Code: Costumes!!! Since we're a Turkish club we're encouraging people to dress up as famous Turkish people but dress as you would like!\nSize/Audience: About 40-50 students\nAdditional Equipment: So we don't have ANY equipment and aren't quite sure what we would need. It is a karaoke night so definitely 2 mics and mic stands\, speakers but idk how many (Use your expertise and judgement)\, a laptop we can use to find the songs. Again we really don't know what we need\, this is our first time doing this :\,)\nPlaylist/Mood: I'll work on creating a playlist for the beginning of the event when people are getting warmed up but mostly we are looking to open instrumental karaokes on Youtube and sing. All Turkish songs.\nPeople who can make announcements: Everyone should be able to use the microphones and equipment since it's a karaoke event\nHighlander Hub: https://njit.campuslabs.com/engage/event/10500432/attend?Vud=11/3/2024&Vut=00:30:00&Hash=P3jxb-D0yUgo2bJScForv83HQ7vpvuOA3PVZ5r4jx-Y7h7YsDqMl_iVCgoPNj-PM6z4PeZl82oQ2p8G0yRtkEf69yMOKlqDobdmPDSVIdB3n7PiphldqCQmD6UcBZi3RCv2T6tDtbwac4fHhMR11Cny3_CZjV6Bb2tnQpEDJRxuR4Pvp0YblVQslVCV_WJD2y_CY2di2aVX1GG2EjeA9r0IgTO6lQdv1Kjo5IZVjYpBmFSkiStL4pPB6-8cgEGwTbzExQltvOZPjLj2oRATEVe6a0d2LsQ_WOQ-87y2KRVQveOJKz9VkCpplrRcfd85YaSQBwG7IyZn0MXofdwRIMg\nCohost Agreement: I agree\n
-DTEND:20241031T010000Z
+DESCRIPTION:Setup Time: 06:00 PM / 18:00\nStart Time: 07:00 PM / 19:00\nEnd Time: 10:00 PM / 22:00\nOrganizer: Hunter Russo - hjr22\nClub: Student Senate\nIndoors\nDress Code: Casual\nSize/Audience: roughly 200-400\nAdditional Equipment: 2 mics\, and speakers facing all directions\nPlaylist/Mood: mainly jazz\nPeople who can make announcements: Hunter Russo\nMarina Samuel\nEric Huang\nBrian Dong\nJoshua DeMarco\nJanice Akladyous\nHighlander Hub: https://njit.campuslabs.com/engage/organization/studentsenate\nCohost Agreement: I agree\n
+DTEND:20241017T020000Z
+LOCATION:Campus Center Ballroom
+DTSTART:20241016T220000Z
+SUMMARY:Casino Night
+UID:40846f6f-b8da-4ee7-ac77-dba151147428@4084.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Setup Time: 04:00 PM / 16:00\nStart Time: 05:00 PM / 17:00\nEnd Time: 09:00 PM / 21:00\nOrganizer: Victoria Almeyda - President (va37@njiit.edu)\, Isabella Ruiz - Vice President (mir26@njit.edu)\nClub: Society of Hispanic and Latine Appreciation\nIndoors\nDress Code: Casual\nSize/Audience: 100 (Students and faculty)\nAdditional Equipment: mic stands\, and mics\nPlaylist/Mood: https://open.spotify.com/playlist/0PHjBpuAVWxDwyJFjZuvjf?si=00fbc67fb04b4f75\nPeople who can make announcements: Victoria Almeyda and Isabella Ruiz can make announcements. Also\, we will work along SOMA (they will perform during the event)\nHighlander Hub: https://njit.campuslabs.com/engage/organization/shla\nCohost Agreement: I agree\n
+DTEND:20241205T020000Z
 LOCATION:Highlander Pub
-DTSTART:20241030T213000Z
-SUMMARY:Celebrating Republic Day of Türkiye!
-UID:5dfddd3e-a039-453a-8b62-958e4bdf694e@5dfd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Setup Time: 01:45 PM / 13:45\nStart Time: 02:30 PM / 14:30\nEnd Time: 04:00 PM / 16:00\nOrganizer: Victoria Almeyda\, va37 (SHLA President) and Maria Isabella Ruiz\, mir26 (SHLA Vice President)\nClub: Society of Hispanic and Latine Appreciation\nOutdoors\nDress Code: Casual\nSize/Audience: Students and faculty\nAdditional Equipment: Anything you usually need to set up outside in the upper greens.\nPlaylist/Mood: https://open.spotify.com/playlist/37cl4tYeOCi07LVmKFWw5o?si=WlcFXyrPTsuGIQrA14gApg\nPeople who can make announcements: n/a\nHighlander Hub: https://njit.campuslabs.com/engage/organization/shla\nCohost Agreement: I agree\n
-DTEND:20240927T200000Z
-LOCATION:Upper greens
-DTSTART:20240927T174500Z
-SUMMARY:Carnaval!
-UID:137d2b10-85fd-4285-9838-a49361542e0a@137d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Setup Time: 04:00 PM / 16:00\nStart Time: 05:00 PM / 17:00\nEnd Time: 08:00 PM / 20:00\nOrganizer: Maya Salyani - mms29\nClub: SAC\nIndoors\nDress Code: Casual\nSize/Audience: 100 - Students\nAdditional Equipment: Speakers for sound (movie)\nPlaylist/Mood: N/A\nPeople who can make announcements: SAC Eboard\nHighlander Hub: https://njit.campuslabs.com/engage/event/10396630\nCohost Agreement: I agree\n
-DTEND:20240914T000000Z
-LOCATION:CC Atrium
-DTSTART:20240913T200000Z
-SUMMARY:SAC Movie Night
-UID:930ea023-4220-47c4-8c36-e23e1ad49be8@930e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Setup Time: 04:30 PM / 16:30\nStart Time: 05:00 PM / 17:00\nEnd Time: 08:00 PM / 20:00\nOrganizer: Adriana Macris adm29\nClub: AIChE\nIndoors\nDress Code: Casual\nSize/Audience: 80 Students\nAdditional Equipment: 4 Mics and 4 mic stands\nPlaylist/Mood: https://open.spotify.com/playlist/041BGpZhdeSPjf1tQYmL9A?si=882a9a03e29f4f83 (you can add more this is just a vibe))\nPeople who can make announcements: Adriana Macris\nYomna Hammouda\nMimi Pham\nGrace Revoredo\nRawda Moustafa\nHumberto Mesa\nHighlander Hub: https://njit.campuslabs.com/engage/organization/aiche\nCohost Agreement: I agree\n
-DTEND:20241102T000000Z
-LOCATION:CC Atrium
-DTSTART:20241101T203000Z
-SUMMARY:Mad Scientist Masquerade
-UID:5bcbfe2a-da89-4a40-8d66-b081ccbe2538@5bcb.org
+DTSTART:20241204T210000Z
+SUMMARY:Cafesito y Chisme
+UID:51728b1e-5370-4b09-a37f-273b066479bf@5172.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Setup Time: 02:00 AM / 02:00\nStart Time: 04:30 PM / 16:30\nEnd Time: 07:30 PM / 19:30\nOrganizer: Keith Anderson (kea26)\nClub: Student Activities Council (SAC)\nIndoors\nDress Code: Halloween Costume/Attire if available!\nSize/Audience: ~350 students\nAdditional Equipment: N/A\nPlaylist/Mood: https://open.spotify.com/playlist/4XCSDmKYeIxZvDErFufEeR?si=3e1ff0c014ac4f02\nPeople who can make announcements: Julian Saar\nKeith Anderson\nAlejandro Damito\nDaniel Simones\nDaniel Tobar\nHighlander Hub: N/A\nCohost Agreement: I agree\n
@@ -143,15 +47,7 @@ DTEND:20241030T233000Z
 LOCATION:Atrium and Ballrooms A and B (You guys will be in ballroom A)
 DTSTART:20241030T060000Z
 SUMMARY:SACtober
-UID:3627e17b-ba89-4e9d-bde6-74cfee5cbc0c@3627.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Setup Time: 10:50 AM / 10:50\nStart Time: 11:00 AM / 11:00\nEnd Time: 01:00 PM / 13:00\nOrganizer: waff / Danny Waffenfeld\nClub: Office for Student Involvement and Food Pantry\nIndoors\nDress Code: Casual\nSize/Audience: Maybe 20-50 people / is it for donations to the food pantry and spreading awareness\nAdditional Equipment: just one speaker\, nothing really else\nPlaylist/Mood: today's hits / anything you would like!\nPeople who can make announcements: Danny Waffenfeld\nHighlander Hub: https://njit.campuslabs.com/engage/event/10497721\nCohost Agreement: I agree\n
-DTEND:20240924T170000Z
-LOCATION:Campus Center Lobby
-DTSTART:20240924T145000Z
-SUMMARY:Food Drive
-UID:03e758f1-3b03-4a12-b81d-e946111900f7@03e7.org
+UID:824244cd-302f-4ba4-bce9-219410d3296f@8242.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Setup Time: 10:00 AM / 10:00\nStart Time: 11:00 AM / 11:00\nEnd Time: 02:00 PM / 14:00\nOrganizer: Jessica Verma\, JKV\nClub: SAC\nIndoors\nDress Code: Casual\nSize/Audience: 100 students\nAdditional Equipment: \nPlaylist/Mood: N/A\nPeople who can make announcements: Jessica Verma\, Maya Salyani\nHighlander Hub: N/A\nCohost Agreement: I agree\n
@@ -159,7 +55,47 @@ DTEND:20241125T190000Z
 LOCATION:CC atrium
 DTSTART:20241125T150000Z
 SUMMARY:SACafe
-UID:d0ac1a68-aa68-4526-b09a-4adfa9f17f7e@d0ac.org
+UID:bd123700-d61a-4422-9435-c86fdb20d826@bd12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Setup Time: 12:00 PM / 12:00\nStart Time: 02:30 PM / 14:30\nEnd Time: 04:00 PM / 16:00\nOrganizer: Janelle Castellano jc394\nClub: Theatre Arts and Technology Program\nIndoors\nDress Code: Semi-Formal\nSize/Audience: 80\nAdditional Equipment: a microphone and area mics with a console that can be fed thru an XLR cable to a camera\, as suggested by Dylan Franz\nPlaylist/Mood: Classical!\nPeople who can make announcements: Sandra Dackow\, Sarah Carino-Kozi\, Courtney Laine Self\, Rodney Reyes\nHighlander Hub: none\nCohost Agreement: I agree\n
+DTEND:20241211T210000Z
+LOCATION:Campus Center Atrium
+DTSTART:20241211T170000Z
+SUMMARY:Janelle Castellano
+UID:17321c27-1349-4791-9f88-7054977f5b08@1732.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Setup Time: 10:30 AM / 10:30\nStart Time: 11:30 AM / 11:30\nEnd Time: 02:00 PM / 14:00\nOrganizer: Angel Cazares - ajc253\nClub: (HACCS) Hispanic Association of Computing College Students\nIndoors\nDress Code: Semi-Formal\nSize/Audience: 150 expected - Students\nAdditional Equipment: Tarps\, (3 extra mics\, its okay if not)\nPlaylist/Mood: will provide soon\nPeople who can make announcements: Angel Cazares\n(panelist names to be available soon)\nHighlander Hub: https://njit.campuslabs.com/engage/organization/haccs\nCohost Agreement: I agree\n
+DTEND:20241015T180000Z
+LOCATION:Campus Center Atrium
+DTSTART:20241015T143000Z
+SUMMARY:Tecno Nuevo
+UID:df83ec62-c211-4ca6-98d1-b24d68e4cd1b@df83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Setup Time: 01:00 PM / 13:00\nStart Time: 02:00 PM / 14:00\nEnd Time: 04:00 PM / 16:00\nOrganizer: julia jat77\n\n\n\n\nhello\nClub: wjtb\n\n\n\nhello\nIndoors\nDress Code: Formal\nSize/Audience: 5 people\n\n\n\n\n\n\n\nhello\nAdditional Equipment: 11 mic stands please\n\n\n\n\n:3\nPlaylist/Mood: something whimsical\nPeople who can make announcements: julia\n\njulia\n\njulia\njulia\nHighlander Hub: N/A\n\n\nhello\nCohost Agreement: I agree\n
+DTEND:20240910T200000Z
+LOCATION:at my house
+DTSTART:20240910T170000Z
+SUMMARY:test event (new form)
+UID:12b0fe39-e9a5-4e60-bec8-dc3adeb15d39@12b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Setup Time: 04:00 PM / 16:00\nStart Time: 05:00 PM / 17:00\nEnd Time: 07:00 PM / 19:00\nOrganizer: Jasmin Rutter jnr7\nClub: Society of Musical Arts\nIndoors\nDress Code: Casual\nSize/Audience: 50 and anyone can come\nAdditional Equipment: mixer\, 3 microphones\, mic stands\, 2 pa speakers\, aux to quarter inch\nPlaylist/Mood: chill\nPeople who can make announcements: Jasmin Rutter\nErik Lewis\nLouis Scafidi\nAkshay Nambiar\nRyan Bautista\nHighlander Hub: https://njit.campuslabs.com/engage/event/10342751\nCohost Agreement: I agree\n
+DTEND:20241014T230000Z
+LOCATION:CKB Agile Strat Lab
+DTSTART:20241014T200000Z
+SUMMARY:Homecoming Open Mic
+UID:ba28a53a-d253-46be-b015-61eae96cc499@ba28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Setup Time: 12:10 PM / 12:10\nStart Time: 12:30 PM / 12:30\nEnd Time: 02:30 PM / 14:30\nOrganizer: waff - Danny Waffenfeld\nClub: Office for Student Involvement and Leadership and VSO\nIndoors\nDress Code: Casual\nSize/Audience: 150+\nAdditional Equipment: \nPlaylist/Mood: Soft and low key music. We will have speeches from 12:40-1:10 p.m. so from 1:15-2:30 p.m. we are hoping for music to entertain our guests and attendees. We might have military veterans so anything you play will be good as usual\nPeople who can make announcements: Carlos Cabanilla\, Sebastian Arango and Danny Waffenfeld\nHighlander Hub: https://njit.campuslabs.com/engage/event/10206940\nCohost Agreement: I agree\n
+DTEND:20241111T193000Z
+LOCATION:Campus Center Ballrooms
+DTSTART:20241111T171000Z
+SUMMARY:Veterans Day Ceremony
+UID:7551e108-806d-4c09-8f49-775373c09a0c@7551.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Setup Time: 01:30 PM / 13:30\nStart Time: 03:00 PM / 15:00\nEnd Time: 06:00 PM / 18:00\nOrganizer: Keith Anderson (kea26)\nClub: Student Activities Council (SAC)\nIndoors\nDress Code: Casual\nSize/Audience: ~300 students\nAdditional Equipment: N/A\nPlaylist/Mood: https://open.spotify.com/playlist/1W2rqxLXAFIFVz6DeKXjsT?si=_q5-IJx0Qw2CIBG2LYZ3jg&pi=9bFQ12V7Q9-4I\nPeople who can make announcements: Keith Anderson\nJessica Verma\nJulian Saar\nAlejandro Damito\nDaniel Simoes\nHighlander Hub: Not available yet\nCohost Agreement: I agree\n
@@ -167,6 +103,70 @@ DTEND:20241115T230000Z
 LOCATION:Campus Center Atrium
 DTSTART:20241115T183000Z
 SUMMARY:SAC Food Festival
-UID:2a454c41-9aed-437a-a026-8f5fdb450bf5@2a45.org
+UID:4a8f8ced-868e-4ebb-9aae-41d20a805e76@4a8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Setup Time: 04:30 PM / 16:30\nStart Time: 05:00 PM / 17:00\nEnd Time: 08:00 PM / 20:00\nOrganizer: Adriana Macris adm29\nClub: AIChE\nIndoors\nDress Code: Casual\nSize/Audience: 80 Students\nAdditional Equipment: 4 Mics and 4 mic stands\nPlaylist/Mood: https://open.spotify.com/playlist/041BGpZhdeSPjf1tQYmL9A?si=882a9a03e29f4f83 (you can add more this is just a vibe))\nPeople who can make announcements: Adriana Macris\nYomna Hammouda\nMimi Pham\nGrace Revoredo\nRawda Moustafa\nHumberto Mesa\nHighlander Hub: https://njit.campuslabs.com/engage/organization/aiche\nCohost Agreement: I agree\n
+DTEND:20241102T000000Z
+LOCATION:CC Atrium
+DTSTART:20241101T203000Z
+SUMMARY:Mad Scientist Masquerade
+UID:95e236f8-654f-4feb-a9b7-a7484de1ce76@95e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Setup Time: 10:30 AM / 10:30\nStart Time: 11:30 AM / 11:30\nEnd Time: 01:00 PM / 13:00\nOrganizer: Victoria Almeyda (va37-President) and Isabella Ruiz (mir26-Vice President)\nClub: Society of Hispanic and Latine Appreciation\nIndoors\nDress Code: Casual\nSize/Audience: Student and faculty\nAdditional Equipment: We will need a mic to announce Lotería cards.\nPlaylist/Mood: Hispanic/Latine. https://open.spotify.com/playlist/08QuTN2JpTfaXroWytu8pL?si=mrAFoy1gRmuhzmEmz8tSTA\nPeople who can make announcements: Only Victoria Almeyda\, Isabella Ruiz\, Natalia Pena\, Victor Gonzales\nHighlander Hub: https://njit.campuslabs.com/engage/organization/shla\nCohost Agreement: I agree\n
+DTEND:20241004T170000Z
+LOCATION:Campus Center Atrium
+DTSTART:20241004T143000Z
+SUMMARY:Lotería
+UID:6b129b7e-425d-41e7-8bb4-0c9093a04ff6@6b12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Setup Time: 05:00 PM / 17:00\nStart Time: 06:00 PM / 18:00\nEnd Time: 09:00 PM / 21:00\nOrganizer: Steve Limaymanta: sal63\nClub: Society of Hispanic Professional Engineers\nIndoors\nDress Code: Casual\nSize/Audience: 200\nAdditional Equipment: Mic Stand\, more than 2 Mics\, speakers facing all directions\nPlaylist/Mood: https://open.spotify.com/playlist/1jEoB2wymb0kRKwbAqXw1Q?si=r2CkoLHlT5KpCm_q9q6How&pi=u-yBsgzPR1Qkq5\nPeople who can make announcements: Rick Kanashiro\, Pablo Leyva\, Steve Limaymanta\, Marcela Cardenas\, Israel Alcantara\nHighlander Hub: N/A\nCohost Agreement: I agree\n
+DTEND:20240927T010000Z
+LOCATION:Campus Center Ballroom A
+DTSTART:20240926T210000Z
+SUMMARY:Latin Night
+UID:a5e636fb-7d69-470f-b560-fca916d453f7@a5e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Setup Time: 04:00 PM / 16:00\nStart Time: 05:00 PM / 17:00\nEnd Time: 08:00 PM / 20:00\nOrganizer: Maya Salyani mms29\nClub: Student Activities Council\nIndoors\nDress Code: Casual\nSize/Audience: 250 undergrad students\nAdditional Equipment: 2 mics\nPlaylist/Mood: Jeopardy music\nPeople who can make announcements: SAC Eboard (we will be using the mic for the whole event)\nHighlander Hub: n/a\nCohost Agreement: I agree\n
+DTEND:20241106T010000Z
+LOCATION:Atrium
+DTSTART:20241105T210000Z
+SUMMARY:SAC Trivia Night
+UID:3df624eb-c961-494a-8210-0a81da503b82@3df6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Setup Time: 04:00 PM / 16:00\nStart Time: 05:00 PM / 17:00\nEnd Time: 08:00 PM / 20:00\nOrganizer: Maya Salyani - mms29\nClub: SAC\nIndoors\nDress Code: Casual\nSize/Audience: 100 - Students\nAdditional Equipment: Speakers for sound (movie)\nPlaylist/Mood: N/A\nPeople who can make announcements: SAC Eboard\nHighlander Hub: https://njit.campuslabs.com/engage/event/10396630\nCohost Agreement: I agree\n
+DTEND:20240914T000000Z
+LOCATION:CC Atrium
+DTSTART:20240913T200000Z
+SUMMARY:SAC Movie Night
+UID:4058b975-8a92-43a9-94c1-68f8acaba96a@4058.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Setup Time: 02:30 PM / 14:30\nStart Time: 05:00 PM / 17:00\nEnd Time: 07:00 PM / 19:00\nOrganizer: Janelle Castellano jc394\nClub: The Music Initiative as part of the Theatre Arts and Technology Program\nIndoors\nDress Code: Semi-Formal\nSize/Audience: 80\nAdditional Equipment: a microphone and area mics with a console that can be fed thru an XLR cable to a camera\, as suggested by Dylan Franz\nPlaylist/Mood: Jazz music!\nPeople who can make announcements: David Rimelis\, Courtney Laine Self\, Rodney Reyes\nHighlander Hub: none\nCohost Agreement: I agree\n
+DTEND:20241214T000000Z
+LOCATION:Campus Center Atrium
+DTSTART:20241213T193000Z
+SUMMARY:Jazz Ensemble Concert
+UID:34df6300-ed65-4100-9518-993a3bc537dc@34df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Setup Time: 01:45 PM / 13:45\nStart Time: 02:30 PM / 14:30\nEnd Time: 04:00 PM / 16:00\nOrganizer: Victoria Almeyda\, va37 (SHLA President) and Maria Isabella Ruiz\, mir26 (SHLA Vice President)\nClub: Society of Hispanic and Latine Appreciation\nOutdoors\nDress Code: Casual\nSize/Audience: Students and faculty\nAdditional Equipment: Anything you usually need to set up outside in the upper greens.\nPlaylist/Mood: https://open.spotify.com/playlist/37cl4tYeOCi07LVmKFWw5o?si=WlcFXyrPTsuGIQrA14gApg\nPeople who can make announcements: n/a\nHighlander Hub: https://njit.campuslabs.com/engage/organization/shla\nCohost Agreement: I agree\n
+DTEND:20240927T200000Z
+LOCATION:Upper greens
+DTSTART:20240927T174500Z
+SUMMARY:Carnaval!
+UID:4d913ffe-6751-4faf-b033-2062ec057cc8@4d91.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Setup Time: 05:30 PM / 17:30\nStart Time: 06:00 PM / 18:00\nEnd Time: 09:00 PM / 21:00\nOrganizer: Ebru Dagdelen\, end\nClub: Turkish Student Association\nIndoors\nDress Code: Costumes!!! Since we're a Turkish club we're encouraging people to dress up as famous Turkish people but dress as you would like!\nSize/Audience: About 40-50 students\nAdditional Equipment: So we don't have ANY equipment and aren't quite sure what we would need. It is a karaoke night so definitely 2 mics and mic stands\, speakers but idk how many (Use your expertise and judgement)\, a laptop we can use to find the songs. Again we really don't know what we need\, this is our first time doing this :\,)\nPlaylist/Mood: I'll work on creating a playlist for the beginning of the event when people are getting warmed up but mostly we are looking to open instrumental karaokes on Youtube and sing. All Turkish songs.\nPeople who can make announcements: Everyone should be able to use the microphones and equipment since it's a karaoke event\nHighlander Hub: https://njit.campuslabs.com/engage/event/10500432/attend?Vud=11/3/2024&Vut=00:30:00&Hash=P3jxb-D0yUgo2bJScForv83HQ7vpvuOA3PVZ5r4jx-Y7h7YsDqMl_iVCgoPNj-PM6z4PeZl82oQ2p8G0yRtkEf69yMOKlqDobdmPDSVIdB3n7PiphldqCQmD6UcBZi3RCv2T6tDtbwac4fHhMR11Cny3_CZjV6Bb2tnQpEDJRxuR4Pvp0YblVQslVCV_WJD2y_CY2di2aVX1GG2EjeA9r0IgTO6lQdv1Kjo5IZVjYpBmFSkiStL4pPB6-8cgEGwTbzExQltvOZPjLj2oRATEVe6a0d2LsQ_WOQ-87y2KRVQveOJKz9VkCpplrRcfd85YaSQBwG7IyZn0MXofdwRIMg\nCohost Agreement: I agree\n
+DTEND:20241031T010000Z
+LOCATION:Highlander Pub
+DTSTART:20241030T213000Z
+SUMMARY:Celebrating Republic Day of Türkiye!
+UID:99f37532-b665-4026-843f-94a2a750fc2c@99f3.org
 END:VEVENT
 END:VCALENDAR
